@@ -3,7 +3,7 @@ import { render } from 'react-dom';
 import { Provider } from 'react-redux';
 
 import { configureStore } from './state/store';
-import App from './views/App.jsx';
+import App from './views/app.jsx';
 
 import { gameOperations } from './state/ducks/game';
 
