@@ -17,7 +17,7 @@ const App = ({ classes }) => {
     <div>
       <div>
         <header>
-          <h2>Tic Tac Toe - Appbar/menu here...</h2>
+          <h2>Tic Tac Toe - by Javman</h2>
         </header>
       </div>
       <div className={classes.content}>
